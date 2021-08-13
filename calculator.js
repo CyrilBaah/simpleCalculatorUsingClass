@@ -13,4 +13,4 @@ class Calculator {
     }
 }
 
-module.exports = Calculator;c
+module.exports = Calculator;
